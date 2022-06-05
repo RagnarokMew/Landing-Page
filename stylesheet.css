@@ -7,7 +7,7 @@ ul
 {
     list-style: none;
     display: flex;
-    gap:10px;
+    gap:30px;
 }
 a
 {
@@ -36,4 +36,36 @@ a
     background-color: #1f2937;
     justify-content: space-around;
     align-items: center;
+}
+.introduction
+{
+    width: 87vw;
+    background-color: #1f2937;
+    padding: 6.5vw;
+}
+.small-400
+{
+    max-width: 400px;
+}
+.small-500
+{
+    max-width: 500px;
+}
+.margin-bsmall
+{
+    margin-bottom: 10px;
+}
+.header1
+{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+button
+{
+    border-radius: 7.5px;
+    background-color: #3882f6;
+    border: 0;
+    padding:5px 20px;
+    font-weight: 600;
 }
