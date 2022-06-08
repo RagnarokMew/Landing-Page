@@ -224,8 +224,7 @@ button:active
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 15px 40px;
-    padding-top: 40px;
+    padding: 40px;
 }
 
 .footer .text
