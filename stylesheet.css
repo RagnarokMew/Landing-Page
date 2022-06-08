@@ -225,6 +225,7 @@ button:active
     justify-content: space-between;
     align-items: center;
     padding: 40px;
+    flex-wrap: wrap;
 }
 
 .footer .text
