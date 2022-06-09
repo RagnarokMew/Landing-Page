@@ -53,7 +53,6 @@ a
     background-color: #1f2937;
     justify-content: space-around;
     align-items: center;
-
     flex-grow: 1;
 }
 
@@ -61,8 +60,12 @@ a
 {
     background-color: #1f2937;
     padding: 6.5vw;
-
     flex-grow: 1;
+    background: url(Images/circuit-board.png) repeat-x;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .small-300
@@ -117,7 +120,6 @@ button
     justify-content: center;
     padding: 40px;
     gap:30px;
-
     flex-grow: 1;
 }
 
@@ -237,6 +239,7 @@ button:active
     align-items: center;
     padding: 40px;
     flex-wrap: wrap;
+    gap: 30px;
 }
 
 .footer .text
@@ -288,4 +291,9 @@ input[type=submit]:hover
 input[type=submit]:active
 {
     background-color: #0053d8;
+}
+.scf
+{
+    justify-content: center;
+    align-items: flex-start;
 }
