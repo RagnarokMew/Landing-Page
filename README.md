@@ -10,6 +10,14 @@ This project will prove:
 * Understanding of (basic) HTML
 * Understanding of (basic) CSS
 * Understanding of Flexbox and Alignment
+## What was achieved
+* Using Flex in order to align content correctly on multiple screen sizes
+* Learned to use multiple backgrounds (though no longer used in project or any commits)
+* Learned to make curved corners (just wanted to mentioned this)
+* Understood how to write better CSS classes (though was not applioed to a great extent)
+* Learned how formatting input works
+* Got accustomed to how a website should look
+* Grasp a basic relation between colours on a website
 ## Credits
 Due to being the largest project I have undertaken up to this point, I need to use free-to-use images along my own and as such whether required or not I will give credit to the creator below.
 ##### geralt (Gerd Altmann | pixabay)
