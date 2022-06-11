@@ -21,4 +21,5 @@ This project will prove:
 ## Credits
 Due to being the largest project I have undertaken up to this point, I need to use free-to-use images along my own and as such whether required or not I will give credit to the creator below.
 ##### geralt (Gerd Altmann | pixabay)
-* Circuit Board Image used in Introduction Section (https://pixabay.com/illustrations/circuit-board-circuits-911636/) (modified to match colour scheme)
+* Circuit Board Image used in Introduction Section (Geralt | Gerd Altmann)(https://pixabay.com/illustrations/circuit-board-circuits-911636/) (modified to match colour scheme)
+* Name for imaginary NFT Project Mewtaverse (https://github.com/Cargobot05)
