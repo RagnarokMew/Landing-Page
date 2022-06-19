@@ -369,30 +369,42 @@ input[type=submit]:active
     width: 100%;
     align-items: center;
 }
+
 .left
 {
     flex-direction: row;
     justify-content: flex-start;
 }
+
 .right
 {
     flex-direction: row-reverse;
     justify-content: flex-end;
 }
+
 .espace
 {
     flex: 1;
 }
+
 .bgap
 {
     gap:50px;
 }
+
 .bootleghr
 {
     border: 1px solid #415674;
     width: 95vw;
 }
+
 .pad30
 {
     padding: 30px;
+}
+
+a img
+{
+    max-width: 75px;
+    max-height: 75px;
 }
