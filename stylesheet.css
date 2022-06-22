@@ -65,7 +65,7 @@ a
     background-color: #1f2937;
     padding: 6.5vw;
     flex-grow: 1;
-    background: url(Images/circuit-board.png) repeat-x;
+    background: url(Images/circuit-board.png) repeat;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -423,4 +423,12 @@ a img
 .lp
 {
     padding-left: 2.5vw;
+}
+.f2
+{
+    flex-grow: 5;
+}
+.f3
+{
+    flex-grow: 0.5;
 }
