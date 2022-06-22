@@ -209,6 +209,7 @@ button
     padding: 50px;
     gap: 50px;
     border-radius: 9px;
+    margin: 0 2.5vw;
 }
 
 .cat .header1
@@ -368,18 +369,17 @@ input[type=submit]:active
     flex-wrap: wrap;
     width: 100%;
     align-items: center;
+    justify-content: center;
 }
 
 .left
 {
     flex-direction: row;
-    justify-content: flex-start;
 }
 
 .right
 {
     flex-direction: row-reverse;
-    justify-content: flex-end;
 }
 
 .espace
@@ -407,4 +407,8 @@ a img
 {
     max-width: 75px;
     max-height: 75px;
+}
+.c
+{
+    align-items: center;
 }
