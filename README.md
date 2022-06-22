@@ -28,4 +28,5 @@ Due to being the largest project I have undertaken up to this point, I need to u
 * Coin Icon in Information Section (Mememd_Nurrohmad | yogyakarta)(https://pixabay.com/illustrations/coin-icon-money-business-finance-2579305/) (modified to match colour scheme and to be made thinner)
 * Lightning Bolt Icon (Clker-Free-Vector-Images)(https://pixabay.com/vectors/lightning-bolt-icon-symbol-power-27588/) (modified to match colour scheme and to be made thinner)
 * Icon for Team Members in Team section in About Page (WandererCreative | Stephanie Edwards) (https://pixabay.com/vectors/blank-profile-picture-mystery-man-973460/)
+* Icon for Community (GDJ | Gordon Johnson)(https://pixabay.com/vectors/boy-girl-frame-emblem-gender-icon-2773387/) (modified to showcase Mewnium)
 * Name for imaginary NFT Project Mewtaverse (https://github.com/Cargobot05)
