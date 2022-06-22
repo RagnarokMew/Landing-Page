@@ -334,8 +334,8 @@ input[type=submit]:active
 
 .imgteam
 {
-    min-width: 200px;
-    min-height: 200px;
+    width: 300px;
+    height: 300px;
 }
 
 .bigh
