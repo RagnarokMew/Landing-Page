@@ -20,7 +20,7 @@ This project will prove:
 * Grasp a basic relation between colours on a website
 ## Credits
 Due to being the largest project I have undertaken up to this point, I need to use free-to-use images along my own and as such whether required or not I will give credit to the creator below.
-##### geralt (Gerd Altmann | pixabay)
+
 * Circuit Board Image used in Introduction Section (Geralt | Gerd Altmann)(https://pixabay.com/illustrations/circuit-board-circuits-911636/) (modified to match colour scheme)
 * Gears and Data Icon in Information Section (OpenCLipart-Vectors)(https://pixabay.com/vectors/computer-data-database-diagram-1294359/) (modified to match colour scheme)
 * Coin Icon in Information Section (Mememd_Nurrohmad | yogyakarta)(https://pixabay.com/illustrations/coin-icon-money-business-finance-2579305/) (modified to match colour scheme and to be made thinner)
