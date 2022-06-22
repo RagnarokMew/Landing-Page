@@ -4,6 +4,8 @@ Part of the Odin Project Curriculum
 As this project on the Odin Project grants more creative freedom (being provided only with the website design), I decided to use this liberty in order to poke fun at the crypto scams/rug-pulls, but also those that believe blindly in this tech, or are just speculative investors that want to manipulate unknowledgeable peeps into investing and losing their money in order to make a quick buck.
 ### Mewnium (MwM)
 As such, the project will present Mewnium (MwM), the imaginary cryptocurrecy, that is the next Bitcoin (source: trust me bro). It is inspired by the Pokemon Mew#0151 (not an NFT, but this gives me an idea), from which my tag at this time (RagnarokMew) derives (don't tell Nintendo).
+### Mewtaverse
+Imaginary NFT project. I kinda lack ideas for this but it needs to exist for the navigation bar. Gotta give props for the name.
 ## Goal
 As this is the last project of the chapter of Flexbox and CSS, this project will represent the epitome of everything I've studied to this point.
 This project will prove:
