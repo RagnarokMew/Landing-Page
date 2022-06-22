@@ -22,4 +22,8 @@ This project will prove:
 Due to being the largest project I have undertaken up to this point, I need to use free-to-use images along my own and as such whether required or not I will give credit to the creator below.
 ##### geralt (Gerd Altmann | pixabay)
 * Circuit Board Image used in Introduction Section (Geralt | Gerd Altmann)(https://pixabay.com/illustrations/circuit-board-circuits-911636/) (modified to match colour scheme)
+* Gears and Data Icon in Information Section (OpenCLipart-Vectors)(https://pixabay.com/vectors/computer-data-database-diagram-1294359/) (modified to match colour scheme)
+* Coin Icon in Information Section (Mememd_Nurrohmad | yogyakarta)(https://pixabay.com/illustrations/coin-icon-money-business-finance-2579305/) (modified to match colour scheme and to be made thinner)
+* Lightning Bolt Icon (Clker-Free-Vector-Images)(https://pixabay.com/vectors/lightning-bolt-icon-symbol-power-27588/) (modified to match colour scheme and to be made thinner)
+* Icon for Team Members in Team section in About Page (WandererCreative | Stephanie Edwards) (https://pixabay.com/vectors/blank-profile-picture-mystery-man-973460/)
 * Name for imaginary NFT Project Mewtaverse (https://github.com/Cargobot05)
