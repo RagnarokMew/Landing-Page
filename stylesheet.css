@@ -359,7 +359,6 @@ input[type=submit]:active
     display: flex;
     flex-flow: column wrap;
     gap: 10px;
-    flex-shrink: 1;
 }
 
 .team
@@ -384,7 +383,12 @@ input[type=submit]:active
 
 .espace
 {
-    flex: 1;
+    flex: 0.1 1 auto;
+}
+
+.f1
+{
+    flex-grow: 1;
 }
 
 .bgap
@@ -411,4 +415,12 @@ a img
 .c
 {
     align-items: center;
+}
+.rp
+{
+    padding-right: 2.5vw;
+}
+.lp
+{
+    padding-left: 2.5vw;
 }
