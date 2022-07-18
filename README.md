@@ -16,7 +16,7 @@ This project will prove:
 * Using Flex in order to align content correctly on multiple screen sizes
 * Learned to use multiple backgrounds (though no longer used in project or any commits)
 * Learned to make curved corners (just wanted to mentioned this)
-* Understood how to write better CSS classes (though was not applioed to a great extent)
+* Understood how to write better CSS classes (though was not applied to a great extent)
 * Learned how formatting input works
 * Got accustomed to how a website should look
 * Grasp a basic relation between colours on a website
